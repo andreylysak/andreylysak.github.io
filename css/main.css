@@ -1,0 +1,40 @@
+.header-logo {
+	font-size: 40px;
+	margin-right: 20px;
+}
+
+.section-description-title {
+	margin-bottom: 50px;
+}
+
+.section-description {
+	padding-bottom: 25px;
+}
+
+.section-projects {
+	background: hsl(232, 11%, 15%);
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #fff;
+}
+
+.section-title {
+	margin-bottom: 25px;
+}
+
+.section-title-light{
+	color: #fff;
+}
+
+.projects-cards .card-title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.section-contacts {
+  padding-top: 25px;
+}
+
+.project-image img {
+	width: 100%;
+}
